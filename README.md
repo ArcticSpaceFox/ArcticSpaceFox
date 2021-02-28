@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+👀 So many people have looked at this so far  
+![Visitor Count](https://profile-counter.glitch.me/ArcticSpaceFox/count.svg)
+
 <!--
 **ArcticSpaceFox/ArcticSpaceFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
